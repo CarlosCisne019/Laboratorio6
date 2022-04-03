@@ -37,3 +37,10 @@
     padding-top: 30px;
 
 }
+#github{
+    margin-left: 30px;
+}
+.carousel-inner{
+    width: 800px;
+    margin-left: 400px;
+}
